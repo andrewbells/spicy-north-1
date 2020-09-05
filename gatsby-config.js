@@ -1,8 +1,8 @@
 module.exports = {
     siteMetadata: {
-        title: 'Grayscale promo',
-        description: 'Grayscale promo gatsby starter',
-        author: '@awesome1888',
+        title: 'Spicy North',
+        description: 'Spicy North is a mobile game development studio from Helsinki, Finland, rooted in Argentina.',
+        author: 'Spicy North',
     },
     plugins: [
         {

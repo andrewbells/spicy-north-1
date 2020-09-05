@@ -24,7 +24,7 @@ export const SEO: FunctionComponent<Props> = ({
                             lang,
                         }}
                         title={title}
-                        titleTemplate={`%s | ${data.site.siteMetadata.title}`}
+                        titleTemplate={`%s`}
                         meta={[
                             {
                                 name: `description`,
