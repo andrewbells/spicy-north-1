@@ -10,7 +10,7 @@ export const Footer: FunctionComponent<{}> = () => {
                     Spicy North Games
                 </NoWrap>
             </Info>
-            <Info>This website uses no cookies</Info>
+            <Info>This website does not use cookies</Info>
         </Container>
     );
 };
