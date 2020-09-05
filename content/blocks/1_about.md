@@ -6,5 +6,4 @@ effect: fade-slide-top
 effectTimeout: 0
 ---
 
-Hello. This is a starter for GatsbyJS framework.
-
+Spicy North is a mobile game development studio based in Helsinki, Finland, rooted in Argentina.

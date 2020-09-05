@@ -2,12 +2,11 @@
 id: 'three-pics'
 sort: 3
 graphics:
-  - author: Tianyi Ma
-    image: /assets/single.jpg
-    sourceText: Unsplash
-    source: https://unsplash.com/photos/WiONHd_zYI4
+  - 
+    image: /assets/concept_art_1.JPG
+
 effect: fade-slide-top
 effectTimeout: 0
 ---
 
-So yeah, the starter supports displaying of a single image, like this:
+Our first title, **Overriders** is a stealth-oriented PVE premium mobile game in a cyberpunk setting, built with Unity.

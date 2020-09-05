@@ -18,4 +18,4 @@ graphics:
     source: https://unsplash.com/photos/H-qqp_Eqaww
 ---
 
-We also support displaying a series of images:
+A few screenshots

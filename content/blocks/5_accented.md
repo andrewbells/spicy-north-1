@@ -6,4 +6,5 @@ effect: fade-slide-top
 effectTimeout: 0
 fontSize: standard
 ---
-We support different design widgets as well!
+
+hot@spicynorth.games
