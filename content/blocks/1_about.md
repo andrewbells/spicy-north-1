@@ -6,4 +6,4 @@ effect: fade-slide-top
 effectTimeout: 0
 ---
 
-Spicy North is a mobile game development studio based in Helsinki, Finland, rooted in Argentina.
+We are a mobile game development studio based in Helsinki, Finland, rooted in Argentina.
