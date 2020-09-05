@@ -7,7 +7,7 @@ export const SEO: FunctionComponent<Props> = ({
     description = 'Spicy North is a mobile game development studio from Helsinki, Finland, rooted in Argentina.',
     lang = 'en',
     meta = [],
-    keywords = [mobile, game, mobile game, developer, unity],
+    keywords = [mobile, game, developer, unity],
     title,
 }) => {
     return (
