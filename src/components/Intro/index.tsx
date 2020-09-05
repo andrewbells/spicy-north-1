@@ -40,13 +40,13 @@ export const Intro: FunctionComponent<{}> = () => {
                                 effect="fade-slide-left"
                                 effectTimeout={timeoutBase}
                             >
-                                Grayscale promo
+                                Spicy North
                             </Title>
                             <SubTitle
                                 effect="fade-slide-bottom"
                                 effectTimeout={timeoutBase + 500}
                             >
-                                GatsbyJS starter
+                                with passion for mobile games
                             </SubTitle>
                         </Data>
                         <Arrow
@@ -54,11 +54,6 @@ export const Intro: FunctionComponent<{}> = () => {
                             onClick={() => scrollWindow()}
                         />
                     </Container>
-                    <Copyright
-                        author="Caspar Camille Rubin"
-                        source="https://unsplash.com/photos/fPkvU7RDmCo"
-                        sourceText="Unsplash"
-                    />
                 </>
             )}
         </Query>

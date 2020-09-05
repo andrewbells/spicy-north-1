@@ -5,12 +5,12 @@ export const Footer: FunctionComponent<{}> = () => {
     return (
         <Container>
             <Info>
-                <NoWrap>&copy; 2019</NoWrap>{' '}
+                <NoWrap>&copy; 2020</NoWrap>{' '}
                 <NoWrap>
-                    &laquo;Grayscale Promo!&raquo; &mdash; a GatsbyJS starter
+                    Spicy North Games
                 </NoWrap>
             </Info>
-            <Info>Our website uses no cookies :)</Info>
+            <Info>This website uses no cookies</Info>
         </Container>
     );
 };
