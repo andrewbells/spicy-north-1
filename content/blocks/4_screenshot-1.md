@@ -2,10 +2,10 @@
 id: 'three-pics'
 sort: 4
 graphics:
-  - author: Tianyi Ma
+  - author: Fernando Montalvo
     image: /assets/level_screenshot_1.png
-    sourceText: Unsplash
-    source: https://unsplash.com/photos/WiONHd_zYI4
+    sourceText: Artstation
+    source: https://www.artstation.com/artwork/dOzZrA
 effect: fade-slide-top
 effectTimeout: 0
 ---
