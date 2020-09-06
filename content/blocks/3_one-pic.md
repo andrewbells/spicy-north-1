@@ -2,9 +2,10 @@
 id: 'three-pics'
 sort: 3
 graphics:
-  - 
-    image: /assets/concept_art_1.JPG
-
+  - author: Tianyi Ma
+    image: /assets/concept_art_4.jpg
+    sourceText: Unsplash
+    source: https://unsplash.com/photos/WiONHd_zYI4
 effect: fade-slide-top
 effectTimeout: 0
 ---

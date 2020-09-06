@@ -1,6 +1,6 @@
 ---
-id: lorem
-sort: 2.5
+id: mission
+sort: 2
 fontSize: standard
 effect: fade-slide-top
 effectTimeout: 0

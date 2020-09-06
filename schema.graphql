@@ -1707,7 +1707,7 @@ input MarkdownRemarkFilterInput {
 type MarkdownRemarkFrontmatter {
   title: String
   id: String
-  sort: Float
+  sort: Int
   fontSize: String
   effect: String
   effectTimeout: Int
@@ -1718,7 +1718,7 @@ type MarkdownRemarkFrontmatter {
 input MarkdownRemarkFrontmatterFilterInput {
   title: StringQueryOperatorInput
   id: StringQueryOperatorInput
-  sort: FloatQueryOperatorInput
+  sort: IntQueryOperatorInput
   fontSize: StringQueryOperatorInput
   effect: StringQueryOperatorInput
   effectTimeout: IntQueryOperatorInput
