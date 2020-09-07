@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata: {
         title: 'Spicy North',
-        description: 'Spicy North is a mobile game development studio from Helsinki, Finland, rooted in Argentina.',
+        description: 'Spicy North is a mobile game development studio based in Helsinki, Finland, rooted in Argentina.',
         author: 'Spicy North',
     },
     plugins: [

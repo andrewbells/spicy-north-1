@@ -249,4 +249,8 @@ export const GlobalStyle = createGlobalStyle`
         margin-inline-start: 0;
         margin-inline-end: 0;
     }
+
+    h1 {
+      text-align: center;
+    }
 `;
