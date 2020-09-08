@@ -10,4 +10,4 @@ effectTimeout: 0
 
 Overriders is a stealth-oriented real-time tactics PvE mobile game in a cyberpunk setting.
 
-Watch the gameplay preview *(work in progress)* **[here](https://youtu.be/ks7xXdSu1pw)**.
+Watch the Level Editor and Basic Mechanics preview *(work in progress)* **[here](https://youtu.be/1zekdndJ5Bs)**.
