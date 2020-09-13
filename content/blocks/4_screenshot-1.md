@@ -9,3 +9,4 @@ graphics:
 effect: fade-slide-top
 effectTimeout: 0
 ---
+*A voice wakes you up deep inside the headquarters of Vantris Cybernetics, an advanced prosthetics corporation ...*
