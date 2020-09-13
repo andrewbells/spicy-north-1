@@ -3,7 +3,7 @@ id: 'three-pics'
 sort: 5
 graphics:
   - author: Fernando Montalvo
-    image: /assets/level_screenshot_1.png
+    image: /assets/level_screenshot_1.jpg
     sourceText: Artstation
     source: https://www.artstation.com/artwork/dOzZrA
 effect: fade-slide-top

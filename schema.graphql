@@ -874,9 +874,9 @@ enum FileFieldsEnum {
   childMarkdownRemark___frontmatter___title
   childMarkdownRemark___frontmatter___id
   childMarkdownRemark___frontmatter___sort
+  childMarkdownRemark___frontmatter___widget
   childMarkdownRemark___frontmatter___effect
   childMarkdownRemark___frontmatter___effectTimeout
-  childMarkdownRemark___frontmatter___widget
   childMarkdownRemark___frontmatter___fontSize
   childMarkdownRemark___frontmatter___graphics
   childMarkdownRemark___frontmatter___graphics___author
@@ -1540,9 +1540,9 @@ enum MarkdownRemarkFieldsEnum {
   frontmatter___title
   frontmatter___id
   frontmatter___sort
+  frontmatter___widget
   frontmatter___effect
   frontmatter___effectTimeout
-  frontmatter___widget
   frontmatter___fontSize
   frontmatter___graphics
   frontmatter___graphics___author
@@ -1708,9 +1708,9 @@ type MarkdownRemarkFrontmatter {
   title: String
   id: String
   sort: Int
+  widget: String
   effect: String
   effectTimeout: Int
-  widget: String
   fontSize: String
   graphics: [MarkdownRemarkFrontmatterGraphics]
 }
@@ -1719,9 +1719,9 @@ input MarkdownRemarkFrontmatterFilterInput {
   title: StringQueryOperatorInput
   id: StringQueryOperatorInput
   sort: IntQueryOperatorInput
+  widget: StringQueryOperatorInput
   effect: StringQueryOperatorInput
   effectTimeout: IntQueryOperatorInput
-  widget: StringQueryOperatorInput
   fontSize: StringQueryOperatorInput
   graphics: MarkdownRemarkFrontmatterGraphicsFilterListInput
 }

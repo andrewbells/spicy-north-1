@@ -3,7 +3,7 @@ id: 'three-pics'
 sort: 7
 graphics:
   - author: Fernando Montalvo
-    image: /assets/gameplay_commentary_1.png
+    image: /assets/gameplay_commentary_1.jpg
     sourceText: Artstation
     source: https://www.artstation.com/artwork/dOzZrA
 effect: fade-slide-top
