@@ -1,12 +1,11 @@
 ---
 id: 'three-pics'
-sort: 4
+sort: 9
 graphics:
   - author: Fernando Montalvo
-    image: /assets/level_screenshot_1.png
+    image: /assets/concept_art_1.JPG
     sourceText: Artstation
     source: https://www.artstation.com/artwork/dOzZrA
 effect: fade-slide-top
 effectTimeout: 0
 ---
-*A voice wakes you up deep inside the headquarters of Vantris Cybernetics, an advanced prosthetics corporation ...*

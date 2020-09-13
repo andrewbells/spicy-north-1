@@ -1,6 +1,6 @@
 ---
 id: 'three-pics'
-sort: 5
+sort: 6
 graphics:
   - author: Fernando Montalvo
     image: /assets/concept_art_2.JPG

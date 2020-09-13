@@ -1,6 +1,6 @@
 ---
 id: games
-sort: 9
+sort: 10
 effect: fade-slide-top
 effectTimeout: 0
 ---

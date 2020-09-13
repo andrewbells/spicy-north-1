@@ -1,6 +1,6 @@
 ---
 id: 'three-pics'
-sort: 7
+sort: 8
 graphics:
   - author: Fernando Montalvo
     image: /assets/gameplay_commentary_2.png

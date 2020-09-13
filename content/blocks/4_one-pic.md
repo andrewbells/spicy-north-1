@@ -1,9 +1,9 @@
 ---
 id: 'three-pics'
-sort: 8
+sort: 4
 graphics:
   - author: Fernando Montalvo
-    image: /assets/concept_art_1.JPG
+    image: /assets/concept_art_5.jpg
     sourceText: Artstation
     source: https://www.artstation.com/artwork/dOzZrA
 effect: fade-slide-top
