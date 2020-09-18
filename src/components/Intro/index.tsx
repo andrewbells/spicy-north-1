@@ -46,7 +46,7 @@ export const Intro: FunctionComponent<{}> = () => {
                                 effect="fade-slide-bottom"
                                 effectTimeout={timeoutBase + 500}
                             >
-                                with passion for mobile games
+                                with passion for games
                             </SubTitle>
                         </Data>
                         <Arrow

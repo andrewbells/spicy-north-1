@@ -8,4 +8,4 @@ effectTimeout: 0
 
 ## Overriders
 
-Overriders is a stealth-oriented real-time tactics / puzzle PvE mobile game in a cyberpunk setting.
+Overriders is a stealth-oriented real-time tactics / puzzle PvE *mobile* game in a cyberpunk setting.
